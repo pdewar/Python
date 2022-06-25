@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./clarify_python/clarify_python"
+    ]
+}
